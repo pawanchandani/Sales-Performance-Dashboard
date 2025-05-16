@@ -1,22 +1,32 @@
-# 📊 Sales Performance Dashboard
+# Sales Performance Dashboard
 
-## Overview
-Analyzed sales data using Python and visualized insights in Power BI.
+This project showcases a sales performance dashboard built with Python and data visualization tools. It includes data analysis, reports, and visualizations to track sales trends.
 
-## 🔧 Tools Used
-- Python (pandas, matplotlib)
-- Power BI
-- Excel
+---
 
-## 🗃 Folder Structure
-- `data/` – Sales dataset
-- `notebooks/` – Jupyter notebook with data cleaning and analysis
-- `visuals/` – Dashboard screenshot
-- `reports/` – Executive summary
+## Dashboard Preview
 
-## 🔍 Key Insights
-- Region A had the highest growth in Q2
-- Product B underperformed across all regions
+![Sales Dashboard](visuals/sales_dashboard.png)
 
-## 📸 Sample Visual
-![Dashboard](visuals/sales_dashboard.png)
+---
+
+## Project Structure
+
+- `data/` - Raw and processed sales data CSV files
+- `notebooks/` - Jupyter notebooks with data analysis
+- `visuals/` - Visualizations including dashboard screenshots
+- `reports/` - PDF reports and executive summaries
+
+---
+
+## How to Use
+
+1. Clone the repo
+2. Open notebooks in Jupyter
+3. Explore data and visuals
+
+---
+
+## Author
+
+Pawan Chandani | [GitHub Profile](https://github.com/pawanchandani)
